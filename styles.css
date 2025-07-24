@@ -10,8 +10,24 @@ h1{
     font-size: 64px;
     font-weight: 100;
 }
+h2{
+    font-size: 40px;
+    font-family: 'Inter';
+    font-weight: bold;
+}
 h3{
     font-size: 24px;
     font-family: 'Inter';
     font-weight: bold;
+}
+h4{
+    font-family: 'Inter';
+}
+p{
+    font-family: 'Inter';
+    font-weight: normal;
+}
+nav{
+    background-color: #F2E3B6;
+    border-radius: 50px;
 }
