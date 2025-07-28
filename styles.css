@@ -119,6 +119,7 @@ div{
     border-radius: 8%;
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 0;
 }
 
 div1 {
@@ -143,4 +144,8 @@ div3 {
     position: relative;
     bottom: 70px;
     text-align: center;
+}
+
+div4 {
+    height: 130px;
 }
