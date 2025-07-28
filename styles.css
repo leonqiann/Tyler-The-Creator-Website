@@ -27,7 +27,67 @@ p{
     font-family: 'Inter';
     font-weight: normal;
 }
-nav{
+nav1{
     background-color: #F2E3B6;
-    border-radius: 50px;
+    padding-top: 38px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 30%;
+    margin-right: 26px;
+}
+nav2{
+    background-color: #F2E3B6;
+    padding-top: 38px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 30%;
+    margin-right: 26px;
+}
+nav3{
+    background-color: #F2E3B6;
+    padding-top: 38px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 30%;
+    margin-right: 26px;
+}
+nav4{
+    background-color: #F2E3B6;
+    padding-top: 38px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 30%;
+    margin-right: 26px;
+}
+nav5{
+    background-color: #F2E3B6;
+    padding-top: 38px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 30%;
+    margin-right: 26px;
+}
+nav6{
+    background-color: #F2E3B6;
+    padding-top: 38px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 30%;
+    margin-right: 26px;
+}
+nav7{
+    background-color: #F2E3B6;
+    padding-top: 38px;
+    padding-left: 3px;
+    padding-right: 5px;
+    border-radius: 30%;
+    margin-right: 26px;
+}
+header{
+    text-align: center;
+}
+.logo-image {
+    float: left;
+    margin-top: 38px;
+    margin-left: 173px;
 }
