@@ -5,87 +5,107 @@ body {
     background-size: cover;
     background-position: center;
 }
+
 h1{
     font-family: 'Suez One';
     font-size: 64px;
     font-weight: 100;
 }
+
 h2{
     font-size: 40px;
     font-family: 'Inter';
     font-weight: bold;
 }
+
 h3{
     font-size: 24px;
     font-family: 'Inter';
     font-weight: bold;
 }
+
 h4{
     font-family: 'Inter';
 }
+
 p{
     font-family: 'Inter';
     font-weight: normal;
 }
+
 nav1{
     background-color: #F2E3B6;
     padding-top: 38px;
     padding-left: 3px;
     padding-right: 3px;
     border-radius: 30%;
-    margin-right: 26px;
+    margin-right: 35px;
+    margin-left: 420px;
 }
+
 nav2{
     background-color: #F2E3B6;
     padding-top: 38px;
     padding-left: 3px;
     padding-right: 3px;
     border-radius: 30%;
-    margin-right: 26px;
+    margin-right: 35px;
 }
+
 nav3{
     background-color: #F2E3B6;
     padding-top: 38px;
     padding-left: 3px;
     padding-right: 3px;
     border-radius: 30%;
-    margin-right: 26px;
+    margin-right: 35px;
 }
+
 nav4{
     background-color: #F2E3B6;
     padding-top: 38px;
     padding-left: 3px;
     padding-right: 3px;
     border-radius: 30%;
-    margin-right: 26px;
+    margin-right: 35px;
 }
+
 nav5{
     background-color: #F2E3B6;
     padding-top: 38px;
     padding-left: 3px;
     padding-right: 3px;
     border-radius: 30%;
-    margin-right: 26px;
+    margin-right: 35px;
 }
+
 nav6{
     background-color: #F2E3B6;
     padding-top: 38px;
     padding-left: 3px;
     padding-right: 3px;
     border-radius: 30%;
-    margin-right: 26px;
+    margin-right: 35px;
 }
+
 nav7{
     background-color: #F2E3B6;
     padding-top: 38px;
     padding-left: 3px;
     padding-right: 5px;
     border-radius: 30%;
-    margin-right: 26px;
+    margin-right: 35px;
 }
+
 header{
     text-align: center;
+    margin-bottom: 70px;
+    float: left;
+    margin-top: 76px;
+    margin-right: 700px;
+    margin-left: 100px;
 }
+
 .logo-image {
     float: left;
     margin-top: 38px;
