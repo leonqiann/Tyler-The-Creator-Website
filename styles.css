@@ -126,6 +126,9 @@ div1 {
     float: right;
     background-color: rgba(242, 209, 148, 0.75);
     border-radius: 8%;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 div2 {
@@ -148,4 +151,16 @@ div3 {
 
 div4 {
     height: 130px;
+}
+
+div5 {
+    position: relative;
+    bottom: 50px;
+    left: 120px;
+}
+
+div6 {
+    position: relative;
+    top: 160px;
+    right: 165px;
 }
